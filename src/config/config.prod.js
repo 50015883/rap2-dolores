@@ -1,6 +1,6 @@
 module.exports = {
-  serve: 'http://rap2api.taobao.org',
-  keys: ['some secret hurr'],
+  serve: 'http://rap2-delos/',
+  keys: ['xyHYqiesUGHGyuG'],
   session: {
     key: 'koa:sess'
   }
